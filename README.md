@@ -5,7 +5,7 @@
 ECMAScript code beautifier/formatter.
 
 
-## Important
+## Important Test
 
 This tool is still missing support for many important features. Please report
 any bugs you find, the code is only as good as the test cases. Feature requests
